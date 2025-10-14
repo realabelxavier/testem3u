@@ -1,30 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/RTP1.svg/200px-RTP1.svg.png" group-title="Portugal",RTP1 HD
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/RTP2.svg/200px-RTP2.svg.png" group-title="Portugal",RTP2 HD
-https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/RTP3.svg/200px-RTP3.svg.png" group-title="Portugal",RTP3 (News)
-https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/SIC_Logo_2018.svg/200px-SIC_Logo_2018.svg.png" group-title="Portugal",SIC HD
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP1 HD
+https://dss.rtp.pt/dwrp/live/origin/rtp1/liverepeater/rtp1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP 2" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP2 HD
+https://dss.rtp.pt/dwrp/live/origin/rtp2/liverepeater/rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP3 (News)
+https://dss.rtp.pt/dwrp/live/origin/rtp3/liverepeater/rtp3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",SIC HD
 https://d2zihajmogu5jn.cloudfront.net/sic/playlist.m3u8
-#EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SIC_Mulher.svg/200px-SIC_Mulher.svg.png" group-title="Portugal",SIC Mulher
+#EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",SIC Mulher
 https://d2zihajmogu5jn.cloudfront.net/sicmulher/playlist.m3u8
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/SIC_Noticias_logo.svg/200px-SIC_Noticias_logo.svg.png" group-title="Portugal",SIC Notícias
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Notícias" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",SIC Notícias
 https://d2zihajmogu5jn.cloudfront.net/sicnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TVI_logo_2015.svg/200px-TVI_logo_2015.svg.png" group-title="Portugal",TVI HD
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",TVI HD
 https://d2zihajmogu5jn.cloudfront.net/tvi/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/TVI24_logo.svg/200px-TVI24_logo.svg.png" group-title="Portugal",TVI24 (News)
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",TVI24 (News)
 https://d2zihajmogu5jn.cloudfront.net/tvi24/playlist.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVI_Reality_logo.svg/200px-TVI_Reality_logo.svg.png" group-title="Portugal",TVI Reality
-https://d2zihajmogu5jn.cloudfront.net/tvireality/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ARTV_logo.svg/200px-ARTV_logo.svg.png" group-title="Portugal",ARTV
-https://streaming-live.rtp.pt/liverepeater/artv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/CMTV_logo.svg/200px-CMTV_logo.svg.png" group-title="Portugal",CMTV (News)
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",TVI Reality
+https://d2zihajmogu5jn.cloudfront.net/tvificcao/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",ARTV
+https://dss.rtp.pt/dwrp/live/origin/artv/liverepeater/artv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",CMTV (News)
 https://cmtv-live.fluidstream.net/cmtv/cmtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPDesporto.pt" tvg-name="RTP Desporto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/RTP_Desporto.svg/200px-RTP_Desporto.svg.png" group-title="Portugal",RTP Desporto (Sports)
-https://streaming-live.rtp.pt/liverepeater/rtpdesporto.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RTP_Mem%C3%B3ria_logo.svg/200px-RTP_Mem%C3%B3ria_logo.svg.png" group-title="Portugal",RTP Memória
-https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RTP_A%C3%A7ores_logo.svg/200px-RTP_A%C3%A7ores_logo.svg.png" group-title="Portugal",RTP Açores
-https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
-#EXTINF:-1
+#EXTINF:-1 tvg-id="RTPDesporto.pt" tvg-name="RTP Desporto" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP Desporto (Sports)
+https://dss.rtp.pt/dwrp/live/origin/rtpdesporto/liverepeater/rtpdesporto.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP Memória
+https://dss.rtp.pt/dwrp/live/origin/rtpmemoria/liverepeater/rtpmemoria.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP Açores
+https://dss.rtp.pt/dwrp/live/origin/rtpacores/liverepeater/rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP Madeira
+https://dss.rtp.pt/dwrp/live/origin/rtpmadeira/liverepeater/rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",Porto Canal
+https://streaming-portocanal.pt/liverepeater/portocanal/playlist.m3u8
