@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP1 HD
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP 1
 https://dss.rtp.pt/dwrp/live/origin/rtp1/liverepeater/rtp1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP 2" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP2 HD
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP 2" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP 2
 https://dss.rtp.pt/dwrp/live/origin/rtp2/liverepeater/rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP3 (News)
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP 3
 https://dss.rtp.pt/dwrp/live/origin/rtp3/liverepeater/rtp3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",SIC HD
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",SIC
 https://d2zihajmogu5jn.cloudfront.net/sic/playlist.m3u8
 #EXTINF:-1 tvg-id="SICMulher.pt" tvg-name="SIC Mulher" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",SIC Mulher
 https://d2zihajmogu5jn.cloudfront.net/sicmulher/playlist.m3u8
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Notícias" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",SIC Notícias
 https://d2zihajmogu5jn.cloudfront.net/sicnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",TVI HD
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",TVI
 https://d2zihajmogu5jn.cloudfront.net/tvi/playlist.m3u8
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",TVI24 (News)
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",TVI 24
 https://d2zihajmogu5jn.cloudfront.net/tvi24/playlist.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",TVI Reality
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",TVI Ficção
 https://d2zihajmogu5jn.cloudfront.net/tvificcao/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",ARTV
 https://dss.rtp.pt/dwrp/live/origin/artv/liverepeater/artv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",CMTV (News)
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",CMTV
 https://cmtv-live.fluidstream.net/cmtv/cmtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPDesporto.pt" tvg-name="RTP Desporto" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP Desporto (Sports)
+#EXTINF:-1 tvg-id="RTPDesporto.pt" tvg-name="RTP Desporto" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP Desporto
 https://dss.rtp.pt/dwrp/live/origin/rtpdesporto/liverepeater/rtpdesporto.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP Memória
 https://dss.rtp.pt/dwrp/live/origin/rtpmemoria/liverepeater/rtpmemoria.smil/playlist.m3u8
