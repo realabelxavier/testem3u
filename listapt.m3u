@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/iptv/epg/guides/pt.xml"
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP 1" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP 1
 https://dss.rtp.pt/dwrp/live/origin/rtp1/liverepeater/rtp1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP 2" tvg-logo="https://i.imgur.com/3zY4z4v.png" group-title="Portugal",RTP 2
